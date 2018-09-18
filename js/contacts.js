@@ -1,10 +1,3 @@
-/*
-Activité : gestion des contacts
-*/
-
-// TODO : complétez le programme
-
-
 /* - - - - - - - - - - - - - My work - Activity 2 - - - - - - - - - - - - - */
 /* - - - - - - OpenClassroom - Apprenez à coder avec JavaScript - - - - - - */
 
